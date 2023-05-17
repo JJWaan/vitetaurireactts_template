@@ -1,3 +1,5 @@
+// front composition
+
 import Index from "./path";
 
 function App() {
