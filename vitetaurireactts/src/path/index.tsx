@@ -3,7 +3,7 @@
 import "./index.css";
 
 function Index() {
-  return <>moi</>;
+  return <>moido</>;
 }
 
 export default Index;

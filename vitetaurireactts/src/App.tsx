@@ -1,7 +1,7 @@
-import Index from "./path";
+import Routes from "./Routes";
 
 function App() {
-  return <Index />;
+  return <Routes />;
 }
 
 export default App;
