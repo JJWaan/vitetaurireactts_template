@@ -1,4 +1,5 @@
 import Routes from "./Routes";
+// front composition
 
 function App() {
   return <Routes />;
